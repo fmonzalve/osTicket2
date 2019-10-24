@@ -6,11 +6,11 @@
 
 - Crear DB (Al momento de ingresar al sistema, se agregan automáticamente las tablas que se utilizaran)
 
-- Ir al link http://localhost:8080/osTicket-v1.12.3/upload/setup/ en el cual estara el metodo de instalacion  del sistema y seguir los pasos de instalacion. (Segun la raiz en la cual este alojado su sistema) al momento de la instalación le solicitará crear un usuario para ser el administrador del sitio
+- Ir al link **http://localhost:8080/upload/setup/** en el cual estara el metodo de instalacion  del sistema y seguir los pasos de instalacion. Al momento de la instalación le solicitará crear un usuario para ser el administrador del sitio.
 
-- Abrir la Url http://localhost:8080/osTicket-v1.12.3/upload/ para ingresar al sistema (segun la raiz en la cual este alojado su sistema)
+- Abrir la Url **http://localhost:8080/upload/** para ingresar al sistema.
 
-- Ir al link  http://localhost:8080/osTicket-v1.12.3/upload/scp/settings.php para ingresar como administrador del sistema (segun la raiz en la cual este alojado su sistema)
+- Ir al link **http://localhost:8080/upload/scp/login.php** para ingresar como administrador del sistema (segun la raiz en la cual este alojado su sistema)
 
 - Ingresar a Panel de Administrador para comenzar con la Configuración del sistema.
 
