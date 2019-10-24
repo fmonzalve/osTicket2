@@ -19,4 +19,4 @@
 - En la pestaña Correos electrónicos te solicitara la configuración que tendra el correo que se utilizara en el sistema. Debes agregar el nombre de host y el puerto que sera utilizado en el servidor.
 
 
-<h6> Con esto queda configurado el sistema para ser utilizado.<h6>
+#### Con esto queda configurado el sistema para ser utilizado.
