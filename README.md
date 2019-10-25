@@ -2,7 +2,7 @@
  
 ## Instrucciones para Instalar Sistema de Ticket (osTicket)   
 
-- Copiar Carpeta upload en la carpeta www de Apache
+- Copiar Carpeta **upload** en la carpeta www de Apache
 
 - Crear DB (Al momento de instalar el setup, se agregan automáticamente las tablas que se utilizaran)
 
