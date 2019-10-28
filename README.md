@@ -6,9 +6,9 @@
 
 - Crear DB llamada **Ayuda** (Al momento de instalar el setup, se agregan automáticamente las tablas que se utilizaran)
 
-- Ir al link **http://localhost:8080/upload/setup/** en el cual estara el metodo de instalacion  del sistema y seguir los pasos de instalacion. Al momento de la instalación le solicitará crear un usuario para ser el administrador del sistema.
+- Ingrese a **http://localhost:8080/upload/setup/** en el cual estara el metodo de instalacion  del sistema y seguir los pasos de instalacion. Al momento de la instalación le solicitará crear un usuario para ser el administrador del sistema.
 
-- Ir al link **http://localhost:8080/upload/scp/login.php** para ingresar como administrador del sistema (
+- Dirijase a **http://localhost:8080/upload/scp/login.php** para ingresar como administrador del sistema (
 
 - Abrir la Url **http://localhost:8080/upload/** para ingresar al sistema.
 
